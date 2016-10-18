@@ -1,0 +1,19 @@
+name = Infojobs CV
+description = Plugin that shows CV from infojobs
+package = External API
+version = BACKDROP_VERSION
+backdrop = 1.x
+type = module
+configure = admin/config/infojobs
+
+
+; optional
+;dependencies[] = ckeditor
+;version = "0.1"
+
+;stylesheets[all][] = node.css
+;scripts[] = somescript.js
+
+
+
+
